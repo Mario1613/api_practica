@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "mario",
+      "empresa": "skillInformatic",
+      "email": "mariojhaziel04@gmail.com",
+      "telefono": "7441539098",
+      "notas": "Todo listo",
+      "id": 1
+    },
+    {
+      "nombre": "jhaziel",
+      "empresa": "avssav",
+      "email": "mariojhaziel04@gmail.com",
+      "telefono": "7441539097",
+      "notas": "new",
+      "id": 3
+    }
+  ]
+}
